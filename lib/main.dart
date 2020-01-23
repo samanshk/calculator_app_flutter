@@ -12,7 +12,7 @@ class Calculator extends StatefulWidget {
 class _CalculatorState extends State<Calculator> {
   TextEditingController calcInput = TextEditingController();
   String input = '', num1 = '', num2 = '', op = '';
-  var output = 'Result';
+  var output = 'Result'; 
   double answer = 0;
   List<String> operators = ['+', '−', '×', '÷', '%'];
   List<String> numbers = ['1', '2', '3', '4', '5', '6', '7', '8', '9', '0', '.'];
