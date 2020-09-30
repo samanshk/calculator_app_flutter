@@ -2,7 +2,7 @@
 
 # Minimalistic Calculator
 
-So, let's say you're working on your math and suddenly you feel "woo I need a calculator, erm but the calculators out there are too complex", well here we are, giving you the most minimalistic open source calculator! So, what's the deal? You get a calculator, also if you know flutter you can add some more good stuff to it to improve your calculating experience! (Oh, by the way, this calculator is made in flutter, so you can butter your development!)
+So, let's say you're working on your math and suddenly you feel "woo I need a calculator, erm but the calculators out there are too complex", well here we are, giving you the most minimalistic open source calculator! So, what's the deal? You get a calculator, also if you know flutter you can add some more good stuff to it to improve your calculating experience! (Oh, by the way, this calculator is made with flutter, so you can butter your development!)
 
 ## What does this do? 🤔
 
