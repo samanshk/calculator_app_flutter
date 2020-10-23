@@ -15,6 +15,6 @@ Then open up a terminal and clone this repository using  `https://github.com/sam
 
 ## How to contribute? 😍
 
-Fork this repository and send us a pull request! 
+Fork this repository and send us a pull request!
 
 _An Opensourced Mobile App made with 💘 using flutter_
